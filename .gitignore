@@ -1,0 +1,21 @@
+/.history
+models
+.gradio/
+__pycache__/
+*.pyc
+*.pyo
+**/.env 
+**/data
+keys.json
+.virtual_documents
+.ipynb_checkpoints
+__pycache__
+query_generation/modifiers
+query_generation/data
+query_generation/new data
+query_generation/new_filtered_generation
+query_generation/new_generations
+query_generation/generated
+query_generation/filtered_generation
+response_generation/api_check_data
+.DS_Store
