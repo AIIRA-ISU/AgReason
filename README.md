@@ -123,10 +123,4 @@ While specific usage depends on the module, a general workflow could be:
 
 Contributions are welcome. Please follow standard fork, branch, and pull request workflows. For issues or feature requests, please use the GitHub issue tracker.
 
-## License
-
-*(Specify License - e.g., MIT, Apache 2.0. If a LICENSE file exists, refer to it.)*
-
 ## Citation
-
-*(If this project is associated with a publication, include citation information here.)*
