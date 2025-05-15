@@ -1,0 +1,14 @@
+aiohttp
+pandas
+tqdm
+google-generativeai
+openai
+python-dotenv
+nest_asyncio
+torch
+datasets
+transformers
+peft
+trl
+tiktoken
+flash-attn 
